@@ -53,8 +53,6 @@
     <img src="img/screenshot.PNG" alt="Logo" >
 </a>
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://omnifood-melissaeb.netlify.app/) -->
-
 ### Features
 
 - Browse through our menu and select your favorite meals
@@ -134,4 +132,3 @@ Thank you so much to [Jonas Schmedtman](https://codingheroes.io/), whose excelle
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/melissa-elliston-boyes-158259301/
-[product-screenshot]: /img/screenshot.png
