@@ -25,7 +25,6 @@
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -44,8 +43,6 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-<!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
@@ -70,8 +67,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-
 ## Getting Started
 
 To get a local copy up and running, just clone the repo:
@@ -82,15 +77,11 @@ git clone https://github.com/Melissaeb/omnifood.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ROADMAP -->
-
 ## Roadmap
 
 See the [open issues](https://github.com/Melissaeb/omnifood/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## Contributing
 
@@ -107,10 +98,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTACT -->
-
 ## Contact
 
 Melissa Elliston-Boyes
@@ -120,15 +107,13 @@ Project Link: [https://github.com/Melissaeb/omnifood](https://github.com/Melissa
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
-
 ## Acknowledgments
 
 Thank you so much to [Jonas Schmedtman](https://codingheroes.io/), whose excellent teachings I followed to create this site. You can buy his Udemy course at [this link](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=C1WEBSITE1010&utm_source=mycoupon&utm_medium=website1010&utm_campaign=website1010).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- IMAGES -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/melissa-elliston-boyes-158259301/
