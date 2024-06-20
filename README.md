@@ -49,7 +49,11 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://omnifood-melissaeb.netlify.app/)
+<a href="https://omnifood-melissaeb.netlify.app/">
+    <img src="img/screenshot.PNG" alt="Logo" >
+</a>
+
+<!-- [![Product Name Screen Shot][product-screenshot]](https://omnifood-melissaeb.netlify.app/) -->
 
 ### Features
 
