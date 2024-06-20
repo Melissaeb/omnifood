@@ -130,4 +130,4 @@ Thank you so much to [Jonas Schmedtman](https://codingheroes.io/), whose excelle
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/melissa-elliston-boyes-158259301/
-[product-screenshot]: img/screenshot.png
+[product-screenshot]: screenshot.png
